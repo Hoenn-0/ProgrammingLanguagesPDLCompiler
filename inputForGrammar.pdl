@@ -1,0 +1,5 @@
+program aMethod: global x, y
+output("Hello Compiler!")
+endprogram
+proc aMethod
+endproc

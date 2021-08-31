@@ -1,0 +1,14 @@
+program divideTwoNumbers:
+global number1, number2,Result
+set number1 to 170.5
+set number2 to 32
+if (number2 != 0)
+then
+set Result to (number1 / number2)
+else
+output ("Cannot divide by zero")
+endif
+endprogram
+proc getResult
+output ( "The result is: ",Result)
+endproc

@@ -1,0 +1,4 @@
+while ( number2 <= number1) do
+        set Calculate to ( number1 + number2)
+        set Counter to ( counter + 1)
+    endwhile
